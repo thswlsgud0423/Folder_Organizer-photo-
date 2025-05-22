@@ -1,5 +1,8 @@
 a photo of Blue Sky
+a photo of Bright
+a photo of Building
 a photo of Crowd
+a photo of Dark
 a photo of Drinking
 a photo of Flower
 a photo of Grassfield
@@ -11,6 +14,7 @@ a photo of Sitting Person
 a photo of Standing Person
 a photo of Sunny Day
 a photo of Sunset
+a photo of Tree
 a photo of bird
 a photo of castle
 a photo of night streeet
